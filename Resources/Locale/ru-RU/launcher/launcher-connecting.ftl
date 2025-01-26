@@ -1,6 +1,6 @@
 ### Connecting dialog when you start up the game
 
-connecting-title = Backmen Station 14
+connecting-title = STARLIGHT RIVER
 connecting-exit = Выйти
 connecting-retry = Повторить
 connecting-reconnect = Переподключиться
